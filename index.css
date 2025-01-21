@@ -149,7 +149,6 @@ body {
 }
 
 .item5 img {
-    /* width: min(50%, 60%); */
     width: 50%;
 }
 
@@ -171,9 +170,6 @@ body {
 }
 
 @media screen and (max-width:600px) {
-    body {
-        padding-bottom: 200px;
-    }
     .container{
         display: flex;
         flex-direction: column;
